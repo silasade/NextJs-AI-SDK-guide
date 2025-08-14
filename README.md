@@ -20,4 +20,4 @@ Follow the steps below
 
 
 ### Note
-The openai API key isn't free and you can make the model global placing it in your env file and change it to your preferred model
+The openai API key isn't free and you can make the model global by placing it in your env file and change it to your preferred model
